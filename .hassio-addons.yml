@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  sshpasstunnel:
+    repository: hassio-addons/sshpasstunnel
+    target: sshpasstunnel
+    image: sshpasstunnel
